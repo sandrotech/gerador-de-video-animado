@@ -1,0 +1,934 @@
+{
+  "channels": [
+    {
+      "id": "UCoy58MTz5TS66V5VGk0pTew",
+      "handle": "@DesmontandoOMundo",
+      "title": "Desmontando o Mundo",
+      "url": "https://www.youtube.com/@DesmontandoOMundo",
+      "shortsCount": 17,
+      "topViews": 6700000,
+      "addedAt": "04/11/2026",
+      "designStyleLabel": "3D Maquete & Engenharia",
+      "defaultModelId": "sala_experimento"
+    },
+    {
+      "id": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "handle": "@engenhocaexplicadas",
+      "title": "Engenhoca Explicada",
+      "url": "https://www.youtube.com/@engenhocaexplicadas",
+      "shortsCount": 31,
+      "topViews": 32000,
+      "addedAt": "04/11/2026",
+      "designStyleLabel": "2D/3D Cards Numerados & Mitos",
+      "defaultModelId": "editorial_kinetic_2d"
+    },
+    {
+      "id": "UC_ED5htSniY46TjYyWUKAHA",
+      "handle": "@curiosicasabr",
+      "title": "CURIOSICASA",
+      "url": "https://www.youtube.com/@curiosicasabr",
+      "shortsCount": 45,
+      "topViews": 2400,
+      "addedAt": "04/11/2026",
+      "designStyleLabel": "2D Blueprint Clean & Confete",
+      "defaultModelId": "editorial_kinetic_2d"
+    },
+    {
+      "id": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "handle": "@FronteiraDoc",
+      "title": "FRONTEIRA",
+      "url": "https://www.youtube.com/@FronteiraDoc",
+      "shortsCount": 24,
+      "topViews": 107000,
+      "addedAt": "04/11/2026",
+      "designStyleLabel": "2D Geo-Doc Escuro & Radar",
+      "defaultModelId": "doc_mapa_radar"
+    },
+    {
+      "id": "UCFAD1EULZQHhvta4fd_msLA",
+      "handle": "@HistoriandoCuriosidades",
+      "title": "HistoriandoTotalmente",
+      "url": "https://www.youtube.com/@HistoriandoCuriosidades",
+      "shortsCount": 45,
+      "topViews": 389000,
+      "addedAt": "04/11/2026",
+      "designStyleLabel": "2D Ilustrado Flat & História",
+      "defaultModelId": "ilustrado_flat_2d"
+    }
+  ],
+  "viralVideos": [
+    {
+      "id": "PtHNEI5rIXA",
+      "title": "Como se constrói um estádio de futebol?",
+      "viewCount": 6700000,
+      "url": "https://www.youtube.com/shorts/PtHNEI5rIXA",
+      "thumbnail": "https://i.ytimg.com/vi/PtHNEI5rIXA/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "sKarzQzml9E",
+      "title": "Como uma ponte sustenta tanto peso sem cair?",
+      "viewCount": 5700000,
+      "url": "https://www.youtube.com/shorts/sKarzQzml9E",
+      "thumbnail": "https://i.ytimg.com/vi/sKarzQzml9E/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "s2ZKh01UZng",
+      "title": "Como se constrói um arranha-céu? A engenharia por trás dos gigantes",
+      "viewCount": 5000000,
+      "url": "https://www.youtube.com/shorts/s2ZKh01UZng",
+      "thumbnail": "https://i.ytimg.com/vi/s2ZKh01UZng/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "r5VjIQgbxyw",
+      "title": "Como construir um MURO DE ARRIMO? #arrimo #desmontandoomundo #telhado",
+      "viewCount": 4300000,
+      "url": "https://www.youtube.com/shorts/r5VjIQgbxyw",
+      "thumbnail": "https://i.ytimg.com/vi/r5VjIQgbxyw/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "yyUC52kaF_g",
+      "title": "Como um avião tão pesado consegue voar?",
+      "viewCount": 4100000,
+      "url": "https://www.youtube.com/shorts/yyUC52kaF_g",
+      "thumbnail": "https://i.ytimg.com/vi/yyUC52kaF_g/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "iJNMOxuKvKA",
+      "title": "Como o elevador funciona? Cabos, contrapeso e freios",
+      "viewCount": 4000000,
+      "url": "https://www.youtube.com/shorts/iJNMOxuKvKA",
+      "thumbnail": "https://i.ytimg.com/vi/iJNMOxuKvKA/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "910WubkL-vw",
+      "title": "Como um telhado funciona? A engenharia por trás das telhas",
+      "viewCount": 4000000,
+      "url": "https://www.youtube.com/shorts/910WubkL-vw",
+      "thumbnail": "https://i.ytimg.com/vi/910WubkL-vw/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "B0G4yyXqXTs",
+      "title": "Como uma casa fica de pé? Da fundação ao telhado",
+      "viewCount": 3200000,
+      "url": "https://www.youtube.com/shorts/B0G4yyXqXTs",
+      "thumbnail": "https://i.ytimg.com/vi/B0G4yyXqXTs/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "ghmISqCNpU0",
+      "title": "Como é feito o metrô?",
+      "viewCount": 2400000,
+      "url": "https://www.youtube.com/shorts/ghmISqCNpU0",
+      "thumbnail": "https://i.ytimg.com/vi/ghmISqCNpU0/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "J23lojvQNYA",
+      "title": "Como um para-raios protege uma casa?",
+      "viewCount": 2400000,
+      "url": "https://www.youtube.com/shorts/J23lojvQNYA",
+      "thumbnail": "https://i.ytimg.com/vi/J23lojvQNYA/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "PeMdjaJvnR4",
+      "title": "Por que a geladeira esfria por dentro e esquenta por fora?",
+      "viewCount": 2200000,
+      "url": "https://www.youtube.com/shorts/PeMdjaJvnR4",
+      "thumbnail": "https://i.ytimg.com/vi/PeMdjaJvnR4/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "c5cB2JTgwrY",
+      "title": "Como uma lâmpada funciona? Do filamento ao LED",
+      "viewCount": 1900000,
+      "url": "https://www.youtube.com/shorts/c5cB2JTgwrY",
+      "thumbnail": "https://i.ytimg.com/vi/c5cB2JTgwrY/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "aKlvL0pZphg",
+      "title": "Como o micro-ondas aquece a comida? Não é de dentro para fora!",
+      "viewCount": 1900000,
+      "url": "https://www.youtube.com/shorts/aKlvL0pZphg",
+      "thumbnail": "https://i.ytimg.com/vi/aKlvL0pZphg/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "s4UX7ZNWXFY",
+      "title": "Como o motor do carro transforma gasolina em movimento?",
+      "viewCount": 1800000,
+      "url": "https://www.youtube.com/shorts/s4UX7ZNWXFY",
+      "thumbnail": "https://i.ytimg.com/vi/s4UX7ZNWXFY/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "puZ17RT6_jc",
+      "title": "Como o cinto de segurança trava na hora certa?",
+      "viewCount": 1700000,
+      "url": "https://www.youtube.com/shorts/puZ17RT6_jc",
+      "thumbnail": "https://i.ytimg.com/vi/puZ17RT6_jc/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "WRF6yZDeMDA",
+      "title": "Como o ar-condicionado funciona? Ele não fabrica frio!",
+      "viewCount": 1500000,
+      "url": "https://www.youtube.com/shorts/WRF6yZDeMDA",
+      "thumbnail": "https://i.ytimg.com/vi/WRF6yZDeMDA/hqdefault.jpg",
+      "channelId": "UCoy58MTz5TS66V5VGk0pTew",
+      "channelTitle": "Desmontando o Mundo",
+      "channelHandle": "@DesmontandoOMundo"
+    },
+    {
+      "id": "bnzE8-O2USc",
+      "title": "A Terra plana NÃO é possível — e a prova está na sua janela. Sabia disso?",
+      "viewCount": 389000,
+      "url": "https://www.youtube.com/shorts/bnzE8-O2USc",
+      "thumbnail": "https://i.ytimg.com/vi/bnzE8-O2USc/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "rTZnfrFe4Kg",
+      "title": "Como Pompeia realmente morreu",
+      "viewCount": 267000,
+      "url": "https://www.youtube.com/shorts/rTZnfrFe4Kg",
+      "thumbnail": "https://i.ytimg.com/vi/rTZnfrFe4Kg/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "eS8XnypZSRE",
+      "title": "Como o Titanic realmente afundou",
+      "viewCount": 213000,
+      "url": "https://www.youtube.com/shorts/eS8XnypZSRE",
+      "thumbnail": "https://i.ytimg.com/vi/eS8XnypZSRE/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "8SB7CShRdh4",
+      "title": "TSUNAMI no BRASIL já aconteceu, e quase ninguém sabe disso",
+      "viewCount": 114000,
+      "url": "https://www.youtube.com/shorts/8SB7CShRdh4",
+      "thumbnail": "https://i.ytimg.com/vi/8SB7CShRdh4/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "z2gzYHlCUxA",
+      "title": "O TORNADO MAIS LARGO JÁ REGISTRADO 🌪️ #brasil  #curiosidades",
+      "viewCount": 107000,
+      "url": "https://www.youtube.com/shorts/z2gzYHlCUxA",
+      "thumbnail": "https://i.ytimg.com/vi/z2gzYHlCUxA/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "zGKNzfE64Iw",
+      "title": "Como a LUA surgiu? Foi uma COLISÃO... ou será que não?",
+      "viewCount": 69000,
+      "url": "https://www.youtube.com/shorts/zGKNzfE64Iw",
+      "thumbnail": "https://i.ytimg.com/vi/zGKNzfE64Iw/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "R6cNex17VtI",
+      "title": "A batalha dos 300 de esparta: Como foi... ou não foi?",
+      "viewCount": 60000,
+      "url": "https://www.youtube.com/shorts/R6cNex17VtI",
+      "thumbnail": "https://i.ytimg.com/vi/R6cNex17VtI/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "vMwgeiv3PyY",
+      "title": "TODOS os países do mundo. Curiosidades: Brasil",
+      "viewCount": 58000,
+      "url": "https://www.youtube.com/shorts/vMwgeiv3PyY",
+      "thumbnail": "https://i.ytimg.com/vi/vMwgeiv3PyY/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "ldfcbFVGg-w",
+      "title": "5 curiosidades do Brasil que quase ninguém conhece",
+      "viewCount": 32000,
+      "url": "https://www.youtube.com/shorts/ldfcbFVGg-w",
+      "thumbnail": "https://i.ytimg.com/vi/ldfcbFVGg-w/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "nglMnU_r9oc",
+      "title": "E se a Terra PARAR por 1 segundo?",
+      "viewCount": 32000,
+      "url": "https://www.youtube.com/shorts/nglMnU_r9oc",
+      "thumbnail": "https://i.ytimg.com/vi/nglMnU_r9oc/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "K3WToeu8_94",
+      "title": "Como uma piscina funciona? Do buraco ao cloro",
+      "viewCount": 24000,
+      "url": "https://www.youtube.com/shorts/K3WToeu8_94",
+      "thumbnail": "https://i.ytimg.com/vi/K3WToeu8_94/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "p3VY9KaGuJk",
+      "title": "5 mitos do dia a dia que quase todo mundo acredita",
+      "viewCount": 21000,
+      "url": "https://www.youtube.com/shorts/p3VY9KaGuJk",
+      "thumbnail": "https://i.ytimg.com/vi/p3VY9KaGuJk/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "H1Kknw_g194",
+      "title": "E se acontecesse um apocalipse zumbi? A ciência responde",
+      "viewCount": 20000,
+      "url": "https://www.youtube.com/shorts/H1Kknw_g194",
+      "thumbnail": "https://i.ytimg.com/vi/H1Kknw_g194/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "w9lwIWrfJ2o",
+      "title": "Uma MONTANHA inteira SUMIU em Minas Gerais ⛰️😳 #brasil #curiosidades #minasgerais",
+      "viewCount": 15000,
+      "url": "https://www.youtube.com/shorts/w9lwIWrfJ2o",
+      "thumbnail": "https://i.ytimg.com/vi/w9lwIWrfJ2o/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "Cq94Itt23yY",
+      "title": "BURACOS NEGROS: Qual o risco real?",
+      "viewCount": 12000,
+      "url": "https://www.youtube.com/shorts/Cq94Itt23yY",
+      "thumbnail": "https://i.ytimg.com/vi/Cq94Itt23yY/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "MHiZm_Xhb3A",
+      "title": "TODOS os países do mundo. Curiosidades: Chile",
+      "viewCount": 11000,
+      "url": "https://www.youtube.com/shorts/MHiZm_Xhb3A",
+      "thumbnail": "https://i.ytimg.com/vi/MHiZm_Xhb3A/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "0M2_WKzAGuk",
+      "title": "YELLOWSTONE: O SUPERVULCÃO que pode DESTRUIR o mundo?",
+      "viewCount": 11000,
+      "url": "https://www.youtube.com/shorts/0M2_WKzAGuk",
+      "thumbnail": "https://i.ytimg.com/vi/0M2_WKzAGuk/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "4_4rXkML8rM",
+      "title": "Um RAIO é 5x mais QUENTE que o SOL ☀️⚡ #brasil #curiosidades #ciencia",
+      "viewCount": 10000,
+      "url": "https://www.youtube.com/shorts/4_4rXkML8rM",
+      "thumbnail": "https://i.ytimg.com/vi/4_4rXkML8rM/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "F-jGpZlwhvA",
+      "title": "Terremotos no Brasil existem, e esse foi magnitude 6,2 #brasil #curiosidades",
+      "viewCount": 9200,
+      "url": "https://www.youtube.com/shorts/F-jGpZlwhvA",
+      "thumbnail": "https://i.ytimg.com/vi/F-jGpZlwhvA/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "MCcPziO-9uc",
+      "title": "TODOS os países do mundo. Curiosidades: Burundi",
+      "viewCount": 9000,
+      "url": "https://www.youtube.com/shorts/MCcPziO-9uc",
+      "thumbnail": "https://i.ytimg.com/vi/MCcPziO-9uc/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "OXTy6-OyY-s",
+      "title": "E se a internet sumisse amanhã? O último item é o mais assustador",
+      "viewCount": 7500,
+      "url": "https://www.youtube.com/shorts/OXTy6-OyY-s",
+      "thumbnail": "https://i.ytimg.com/vi/OXTy6-OyY-s/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "fCDm0maYGHw",
+      "title": "Como a betoneira mistura o concreto? Do tambor à cremalheira",
+      "viewCount": 7100,
+      "url": "https://www.youtube.com/shorts/fCDm0maYGHw",
+      "thumbnail": "https://i.ytimg.com/vi/fCDm0maYGHw/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "S_qM-j0EVmg",
+      "title": "TODOS os países do mundo. Curiosidades: Catar",
+      "viewCount": 6100,
+      "url": "https://www.youtube.com/shorts/S_qM-j0EVmg",
+      "thumbnail": "https://i.ytimg.com/vi/S_qM-j0EVmg/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "7jN7H4IJ6Aw",
+      "title": "TODOS os países do mundo. Curiosidades: Cabo Verde",
+      "viewCount": 6000,
+      "url": "https://www.youtube.com/shorts/7jN7H4IJ6Aw",
+      "thumbnail": "https://i.ytimg.com/vi/7jN7H4IJ6Aw/hqdefault.jpg",
+      "channelId": "UCFAD1EULZQHhvta4fd_msLA",
+      "channelTitle": "HistoriandoTotalmente",
+      "channelHandle": "@HistoriandoCuriosidades"
+    },
+    {
+      "id": "pDKbYaem7UI",
+      "title": "Por quê o Brasil está se tornando um grande corredor de tornados? #tornado  #brasil #curiosidades",
+      "viewCount": 5700,
+      "url": "https://www.youtube.com/shorts/pDKbYaem7UI",
+      "thumbnail": "https://i.ytimg.com/vi/pDKbYaem7UI/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "ETW8JIEO8CI",
+      "title": "Os 6 fatos mais estranhos sobre animais e o mar",
+      "viewCount": 5300,
+      "url": "https://www.youtube.com/shorts/ETW8JIEO8CI",
+      "thumbnail": "https://i.ytimg.com/vi/ETW8JIEO8CI/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "jtKQ_8tE8yI",
+      "title": "E se cada REGIÃO do Brasil virasse um PAÍS? 🇧🇷🗺️ #brasil #curiosidades",
+      "viewCount": 3200,
+      "url": "https://www.youtube.com/shorts/jtKQ_8tE8yI",
+      "thumbnail": "https://i.ytimg.com/vi/jtKQ_8tE8yI/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "rgQX3qxrSek",
+      "title": "5 coisas estranhas que existem no fundo do mar",
+      "viewCount": 2900,
+      "url": "https://www.youtube.com/shorts/rgQX3qxrSek",
+      "thumbnail": "https://i.ytimg.com/vi/rgQX3qxrSek/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "I62dM9fN_3w",
+      "title": "Por que toda estrada é corcunda? Da brita à faixa que brilha",
+      "viewCount": 2900,
+      "url": "https://www.youtube.com/shorts/I62dM9fN_3w",
+      "thumbnail": "https://i.ytimg.com/vi/I62dM9fN_3w/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "hrDLnEyOyso",
+      "title": "5 segredos dos videogames antigos",
+      "viewCount": 2800,
+      "url": "https://www.youtube.com/shorts/hrDLnEyOyso",
+      "thumbnail": "https://i.ytimg.com/vi/hrDLnEyOyso/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "mYvHioV1ONY",
+      "title": "Os 5 destinos que EXPLODIRAM no Brasil em 2026 (e 1 pra EVITAR) ✈️ #brasil #viagem",
+      "viewCount": 2600,
+      "url": "https://www.youtube.com/shorts/mYvHioV1ONY",
+      "thumbnail": "https://i.ytimg.com/vi/mYvHioV1ONY/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "qHwx3FIMvBE",
+      "title": "Como uma roda gigante levanta barcos 24 metros?",
+      "viewCount": 2400,
+      "url": "https://www.youtube.com/shorts/qHwx3FIMvBE",
+      "thumbnail": "https://i.ytimg.com/vi/qHwx3FIMvBE/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "jWAGRi7rdCg",
+      "title": "Por que o peixe não morre no aquário? Não é a esponja!",
+      "viewCount": 2100,
+      "url": "https://www.youtube.com/shorts/jWAGRi7rdCg",
+      "thumbnail": "https://i.ytimg.com/vi/jWAGRi7rdCg/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "QcUl4eIOpqc",
+      "title": "Como um foguete de 3 mil toneladas chega ao espaço?",
+      "viewCount": 2000,
+      "url": "https://www.youtube.com/shorts/QcUl4eIOpqc",
+      "thumbnail": "https://i.ytimg.com/vi/QcUl4eIOpqc/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "8aaiGI7db1E",
+      "title": "Existe uma ANOMALIA magnética em cima do Brasil… e ela está CRESCENDO 🧲 #brasil #curiosidades",
+      "viewCount": 2000,
+      "url": "https://www.youtube.com/shorts/8aaiGI7db1E",
+      "thumbnail": "https://i.ytimg.com/vi/8aaiGI7db1E/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "6VCvKhdyM8w",
+      "title": "A corrida pelo ouro da Sibéria!  #4k #brasil #siberia #documentário #alasca",
+      "viewCount": 1900,
+      "url": "https://www.youtube.com/shorts/6VCvKhdyM8w",
+      "thumbnail": "https://i.ytimg.com/vi/6VCvKhdyM8w/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "ax4_F0z5ljg",
+      "title": "Como o estádio funciona? Arquibancada, teto sem pilar e refletores",
+      "viewCount": 1800,
+      "url": "https://www.youtube.com/shorts/ax4_F0z5ljg",
+      "thumbnail": "https://i.ytimg.com/vi/ax4_F0z5ljg/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "JnQkKy9GXfQ",
+      "title": "A Ilha mais isolada do mundo! #curiosidades #noticias #documentário",
+      "viewCount": 1800,
+      "url": "https://www.youtube.com/shorts/JnQkKy9GXfQ",
+      "thumbnail": "https://i.ytimg.com/vi/JnQkKy9GXfQ/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "ViqEJLAUd20",
+      "title": "O mar é azul porque reflete o céu?",
+      "viewCount": 1700,
+      "url": "https://www.youtube.com/shorts/ViqEJLAUd20",
+      "thumbnail": "https://i.ytimg.com/vi/ViqEJLAUd20/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "zHv_HnFya2M",
+      "title": "Como um drone fica parado no ar só com 4 hélices?",
+      "viewCount": 1600,
+      "url": "https://www.youtube.com/shorts/zHv_HnFya2M",
+      "thumbnail": "https://i.ytimg.com/vi/zHv_HnFya2M/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "hJ4uzMqU4M0",
+      "title": "Como uma ponte aguenta tudo? Da estaca ao tabuleiro",
+      "viewCount": 1500,
+      "url": "https://www.youtube.com/shorts/hJ4uzMqU4M0",
+      "thumbnail": "https://i.ytimg.com/vi/hJ4uzMqU4M0/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "PUgmDGMSPng",
+      "title": "Como funciona uma Eclusa",
+      "viewCount": 1500,
+      "url": "https://www.youtube.com/shorts/PUgmDGMSPng",
+      "thumbnail": "https://i.ytimg.com/vi/PUgmDGMSPng/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "j827V2x5Jpo",
+      "title": "Como funciona o aquario? #aquário #engeharia #ciencia #citiesskylines",
+      "viewCount": 1500,
+      "url": "https://www.youtube.com/shorts/j827V2x5Jpo",
+      "thumbnail": "https://i.ytimg.com/vi/j827V2x5Jpo/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "tpX3gUbiVFo",
+      "title": "Como funciona um trevo #trevo #engenharia #ciencia",
+      "viewCount": 1500,
+      "url": "https://www.youtube.com/shorts/tpX3gUbiVFo",
+      "thumbnail": "https://i.ytimg.com/vi/tpX3gUbiVFo/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "Lg8FsPJ_X_A",
+      "title": "Onde nasceram Lula e Flávio Bolsonaro? 📍 1.700 km de distância",
+      "viewCount": 1500,
+      "url": "https://www.youtube.com/shorts/Lg8FsPJ_X_A",
+      "thumbnail": "https://i.ytimg.com/vi/Lg8FsPJ_X_A/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "UzEqt7mYvJA",
+      "title": "De onde vem a luz da sua casa? Da barragem até a tomada",
+      "viewCount": 1400,
+      "url": "https://www.youtube.com/shorts/UzEqt7mYvJA",
+      "thumbnail": "https://i.ytimg.com/vi/UzEqt7mYvJA/hqdefault.jpg",
+      "channelId": "UCPiZ3sGBYMw0o_GuIkNWhcw",
+      "channelTitle": "Engenhoca Explicada",
+      "channelHandle": "@engenhocaexplicadas"
+    },
+    {
+      "id": "lzbAFyxafqs",
+      "title": "O Pacífico passou de 30 °C pela PRIMEIRA vez 🌡️ · O maior EL NIÑO já medido pode chegar no NATAL 🎄🔥",
+      "viewCount": 1400,
+      "url": "https://www.youtube.com/shorts/lzbAFyxafqs",
+      "thumbnail": "https://i.ytimg.com/vi/lzbAFyxafqs/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "zPN_c5tTh7g",
+      "title": "MAIS DE 200 TORNADOS em um ÚNICO DIA 🌪️😨 #brasil #curiosidades #tornado",
+      "viewCount": 1400,
+      "url": "https://www.youtube.com/shorts/zPN_c5tTh7g",
+      "thumbnail": "https://i.ytimg.com/vi/zPN_c5tTh7g/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "vZzjNAnSv2g",
+      "title": "Daqui dá pra ver o AMANHÃ? 🇷🇺🇺🇸 #alasca #curiosidades",
+      "viewCount": 1400,
+      "url": "https://www.youtube.com/shorts/vZzjNAnSv2g",
+      "thumbnail": "https://i.ytimg.com/vi/vZzjNAnSv2g/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "4FL7yp8VhjA",
+      "title": "Você já viu um dentre de sabre de verdade? #siberia #documentario #curioso",
+      "viewCount": 1400,
+      "url": "https://www.youtube.com/shorts/4FL7yp8VhjA",
+      "thumbnail": "https://i.ytimg.com/vi/4FL7yp8VhjA/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "c-Zp6SPbYa8",
+      "title": "Como um extintor apaga o fogo em poucos segundos?",
+      "viewCount": 1300,
+      "url": "https://www.youtube.com/shorts/c-Zp6SPbYa8",
+      "thumbnail": "https://i.ytimg.com/vi/c-Zp6SPbYa8/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "KQ4b7Y805PM",
+      "title": "Gelo da Sibéria nunca foi só frio #4k #alaska #siberia #documentário #brasil",
+      "viewCount": 1300,
+      "url": "https://www.youtube.com/shorts/KQ4b7Y805PM",
+      "thumbnail": "https://i.ytimg.com/vi/KQ4b7Y805PM/hqdefault.jpg",
+      "channelId": "UCOVrNAZC9I0YeY63EwPE6oQ",
+      "channelTitle": "FRONTEIRA",
+      "channelHandle": "@FronteiraDoc"
+    },
+    {
+      "id": "_uQV3DkvvxE",
+      "title": "Como o grampeador dobra 2 pontas no papel?",
+      "viewCount": 1100,
+      "url": "https://www.youtube.com/shorts/_uQV3DkvvxE",
+      "thumbnail": "https://i.ytimg.com/vi/_uQV3DkvvxE/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "MCAnBsh9-5E",
+      "title": "Como os romanos levavam água por 90 km sem bomba nenhuma?",
+      "viewCount": 1100,
+      "url": "https://www.youtube.com/shorts/MCAnBsh9-5E",
+      "thumbnail": "https://i.ytimg.com/vi/MCAnBsh9-5E/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "Eg5w4nAVH-A",
+      "title": "Como a máquina de lavar tira a sujeira só girando?",
+      "viewCount": 1100,
+      "url": "https://www.youtube.com/shorts/Eg5w4nAVH-A",
+      "thumbnail": "https://i.ytimg.com/vi/Eg5w4nAVH-A/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "O9al1oOIsVw",
+      "title": "Como um trem sobe uma montanha íngreme sem escorregar?",
+      "viewCount": 1000,
+      "url": "https://www.youtube.com/shorts/O9al1oOIsVw",
+      "thumbnail": "https://i.ytimg.com/vi/O9al1oOIsVw/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "vyvrg2xTEg0",
+      "title": "Como o zíper fecha centenas de dentes num puxão só?",
+      "viewCount": 1000,
+      "url": "https://www.youtube.com/shorts/vyvrg2xTEg0",
+      "thumbnail": "https://i.ytimg.com/vi/vyvrg2xTEg0/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "6O-0cweo49Q",
+      "title": "Como uma hélice gigante transforma vento em energia?",
+      "viewCount": 55,
+      "url": "https://www.youtube.com/shorts/6O-0cweo49Q",
+      "thumbnail": "https://i.ytimg.com/vi/6O-0cweo49Q/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "JSqAN-6x4i0",
+      "title": "Como um relógio de corda anda sem pilha nenhuma?",
+      "viewCount": 36,
+      "url": "https://www.youtube.com/shorts/JSqAN-6x4i0",
+      "thumbnail": "https://i.ytimg.com/vi/JSqAN-6x4i0/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "N3DbKrWPoEU",
+      "title": "Como uma casa feita de gelo esquenta por dentro?",
+      "viewCount": 32,
+      "url": "https://www.youtube.com/shorts/N3DbKrWPoEU",
+      "thumbnail": "https://i.ytimg.com/vi/N3DbKrWPoEU/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "fHESalXw0PE",
+      "title": "Como a água suja do rio vira água de beber na torneira?",
+      "viewCount": 29,
+      "url": "https://www.youtube.com/shorts/fHESalXw0PE",
+      "thumbnail": "https://i.ytimg.com/vi/fHESalXw0PE/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "ogVew_DL4vg",
+      "title": "Como a luz de um farol chega a mais de 30 km no mar?",
+      "viewCount": 24,
+      "url": "https://www.youtube.com/shorts/ogVew_DL4vg",
+      "thumbnail": "https://i.ytimg.com/vi/ogVew_DL4vg/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "rzQyscoNVZM",
+      "title": "Como a panela de pressão cozinha feijão em metade do tempo?",
+      "viewCount": 18,
+      "url": "https://www.youtube.com/shorts/rzQyscoNVZM",
+      "thumbnail": "https://i.ytimg.com/vi/rzQyscoNVZM/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    },
+    {
+      "id": "SVDNqNNfTYM",
+      "title": "Como a escada rolante some no chão e volta lá em cima?",
+      "viewCount": 18,
+      "url": "https://www.youtube.com/shorts/SVDNqNNfTYM",
+      "thumbnail": "https://i.ytimg.com/vi/SVDNqNNfTYM/hqdefault.jpg",
+      "channelId": "UC_ED5htSniY46TjYyWUKAHA",
+      "channelTitle": "CURIOSICASA",
+      "channelHandle": "@curiosicasabr"
+    }
+  ],
+  "dailyThemes": [
+    {
+      "id": "tema-1793804488-1",
+      "hookTitle": "Como um guindaste gigante não tomba durante a construção?",
+      "formatStyle": "3D Maquete Engenharia",
+      "whyItWorks": "Transforma um risco cotidiano e visualmente impressionante em uma explicação mecânica com tensão crescente.",
+      "inspiredByTitle": "Como se constrói um estádio de futebol?",
+      "inspiredByChannel": "@DesmontandoOMundo",
+      "inspiredByViews": 6700000,
+      "recommendedSeconds": 90,
+      "suggestedModelId": "sala_experimento",
+      "readyPrompt": "Abra no primeiro segundo com um guindaste de centenas de toneladas aparentemente prestes a tombar sobre um canteiro, acompanhado da pergunta: como isso não acontece? Mostre em maquete 3D a base de contrapesos, os pontos de ancoragem, a distribuição de carga e uma simulação com vento; feche revelando o mecanismo que mantém o centro de gravidade dentro da base."
+    },
+    {
+      "id": "tema-1793804488-2",
+      "hookTitle": "O lugar onde o chão congela e explode todo verão",
+      "formatStyle": "2D Geo-Doc & Mapa",
+      "whyItWorks": "Usa um fenômeno extremo pouco conhecido, mapa de localização e uma transformação visual chocante para prender a audiência.",
+      "inspiredByTitle": "O TORNADO MAIS LARGO JÁ REGISTRADO 🌪️ #brasil  #curiosidades",
+      "inspiredByChannel": "@FronteiraDoc",
+      "inspiredByViews": 107000,
+      "recommendedSeconds": 60,
+      "suggestedModelId": "doc_mapa_radar",
+      "readyPrompt": "Comece com o solo rachando e lançando água e lama para o alto, enquanto o texto pergunta: como o chão pode explodir sem vulcão? Use mapa escuro, radar climático e camadas animadas para explicar o permafrost, o metano preso e as crateras da Sibéria, com imagens de escala e dados de profundidade; encerre mostrando por que o fenômeno pode se repetir."
+    },
+    {
+      "id": "tema-1793804488-3",
+      "hookTitle": "A Lua está fugindo da Terra — e isso muda tudo?",
+      "formatStyle": "2D Ilustrado Flat",
+      "whyItWorks": "Parte de uma afirmação contraintuitiva e entrega uma prova simples, narrativa cósmica e consequência concreta.",
+      "inspiredByTitle": "Como a LUA surgiu? Foi uma COLISÃO... ou será que não?",
+      "inspiredByChannel": "@HistoriandoCuriosidades",
+      "inspiredByViews": 69000,
+      "recommendedSeconds": 60,
+      "suggestedModelId": "ilustrado_flat_2d",
+      "readyPrompt": "Abra com a Lua se afastando visualmente da Terra e a frase: ela está escapando de nós alguns centímetros por ano? Explique com ilustrações flat as marés, a transferência de energia e as medições feitas por refletores lunares, incluindo uma linha do tempo acelerada; finalize mostrando o que mudaria nos dias e nas marés em um futuro distante."
+    }
+  ],
+  "generatedHistory": [
+    "Como um metrô é construído debaixo de uma cidade?",
+    "Como um navio gigante não vira no meio do oceano?",
+    "Como uma usina transforma água do mar em água potável?",
+    "4 mitos sobre micro-ondas que quase todo mundo acredita",
+    "5 animais que sobrevivem a condições impossíveis",
+    "5 coisas que existem dentro de uma caixa-preta de avião",
+    "O CHÃO abriu de repente: por que surgem crateras gigantes?",
+    "Como os vikings navegavam sem bússola — e não se perdiam?",
+    "Como sabemos do que uma estrela é feita sem tocá-la?",
+    "Por que um elevador não despenca mesmo com o cabo rompido?",
+    "Como uma barragem segura milhões de toneladas de água?",
+    "A ilha que nasceu do oceano diante de câmeras",
+    "Como se constrói um aeroporto sobre o mar?",
+    "Como se constrói uma turbina eólica no meio do oceano?",
+    "Como uma montanha-russa é construída sem descarrilar?",
+    "Como se constrói um aquário gigante sem estourar o vidro?",
+    "Como uma ferrovia atravessa um pântano sem afundar?",
+    "Como se constrói uma casa que não desaba num terremoto?",
+    "Como se constrói um túnel sob o mar sem deixar a água entrar?",
+    "Como se constrói uma plataforma de petróleo no meio do oceano?",
+    "Como se constrói uma pista de pouso sobre o gelo?",
+    "Como se constrói uma usina solar no meio do deserto?",
+    "Como se constrói um data center que não pode parar?",
+    "Como se constrói uma ponte suspensa sobre um cânion?",
+    "Como um guindaste gigante não tomba durante a construção?",
+    "O lugar onde o chão congela e explode todo verão",
+    "A Lua está fugindo da Terra — e isso muda tudo?"
+  ],
+  "lastUpdatedAt": "04/11/2026 10:01",
+  "seedVersion": 2,
+  "channelAnalysis": "Os virais combinam uma pergunta impossível com revelação visual progressiva, mostrando mecanismos, mapas ou provas concretas. Engenharia em 3D e fenômenos extremos em 2D ganham força quando o impacto aparece já no primeiro segundo.",
+  "aiModelUsed": "gpt-5.6-luna",
+  "analyzedAt": "04/11/2026 12:01",
+  "analyzedSignature": "04/11/2026|@curiosicasabr+@desmontandoomundo+@engenhocaexplicadas+@fronteiradoc+@historiandocuriosidades|80"
+}

@@ -1,0 +1,219 @@
+{
+  "slug": "como-funciona-o-pix",
+  "compositionId": "CuriosidadePix",
+  "title": "Como o PIX cai em 2 segundos?",
+  "tagline": "CURIOSIDADES • POR DENTRO DA TECNOLOGIA",
+  "world": "pix_network",
+  "hook": {
+    "eyebrow": "03:17 DA MADRUGADA • COMO ISSO É POSSÍVEL?",
+    "headline": "DINHEIRO NA CONTA EM",
+    "stopwatchTargetSec": 1.8,
+    "badgeText": "ATÉ NO DOMINGO E FERIADO!",
+    "durationFrames": 100
+  },
+  "environment": "lab",
+  "brand": {
+    "name": "POR DENTRO DA TECH",
+    "primary": "#0F766E",
+    "primaryDark": "#0B2F30",
+    "accent": "#F97316",
+    "secondary": "#2563EB",
+    "danger": "#DC2626",
+    "background": "#EBF2F5",
+    "stripeColors": ["#2563EB", "#0F766E", "#F97316", "#7C3AED", "#16A34A"]
+  },
+  "voice": {
+    "voice": "pt-BR-AntonioNeural",
+    "rate": "+4%",
+    "pronunciation": {
+      "PIX": "Pícs",
+      "SPI": "Ésse Pê Í",
+      "DICT": "Díct",
+      "TED": "Téde",
+      "DOC": "Dóque"
+    }
+  },
+  "dataFlowStartAct": 1,
+  "flyingPapersUntilAct": 1,
+  "leftBoard": {
+    "title": "ANTES DO PIX",
+    "headline": "ATÉ 24 HORAS",
+    "subline": "TED e DOC • só em horário comercial"
+  },
+  "compareWall": {
+    "header": "MOTOR DO BANCO CENTRAL • 24 HORAS POR DIA",
+    "left": {
+      "eyebrow": "MODELO ANTIGO (TED / DOC)",
+      "line1": "Horário limitado",
+      "line2": "Várias etapas",
+      "footer": "Só compensava em dias úteis"
+    },
+    "right": {
+      "eyebrow": "COM O PIX",
+      "line1": "~2 SEGUNDOS",
+      "line2": "24h • 7 DIAS",
+      "footer": "Liquidação instantânea no SPI"
+    }
+  },
+  "step1Screen": {
+    "header": "App do Pagador • Envio",
+    "subtitle": "Chave informada   •   Consulta instantânea no diretório",
+    "leftMetric": {
+      "label": "Valor enviado",
+      "value": "R$ 250,00"
+    },
+    "rightMetric": {
+      "label": "Tempo médio",
+      "value": "1,8 seg",
+      "accent": true
+    },
+    "footerNote": "Mensagem criptografada enviada direto ao Banco Central",
+    "buttonText": "Confirmar PIX",
+    "confirmedHeader": "Envio Criptografado",
+    "confirmedTitle": "PIX disparado!",
+    "confirmedSubtitle": "Chave validada e saldo reservado em milissegundos",
+    "switchAtActIndex": 2,
+    "switchAtProgress": 0.72
+  },
+  "coreHub": {
+    "titleLines": ["NÚCLEO", "CENTRAL", "SPI + DICT"],
+    "badge": "BANCO CENTRAL",
+    "items": ["Traduz a chave", "Debita banco A", "Credita banco B", "Criptografia total"],
+    "visualStyle": "gears"
+  },
+  "rightScreen": {
+    "header": "Banco Recebedor • Liquidação",
+    "rows": [
+      { "label": "Status no SPI", "value": "Liquidado em tempo real", "positive": true },
+      { "label": "Valor creditado", "value": "R$ 250,00 na conta", "positive": true },
+      { "label": "Disponibilidade", "value": "24 horas • inclusive feriados", "positive": true },
+      { "label": "Custo pessoa física", "value": "Gratuito", "positive": true }
+    ],
+    "buttons": ["CREDITADO", "RECIBO", "EXTRATO"],
+    "approvedButtonLabel": "✓ NA CONTA",
+    "stampText": "RECEBIDO",
+    "approveAtActIndex": 3,
+    "approveAtProgress": 0.5
+  },
+  "characters": [
+    {
+      "id": "antigo",
+      "role": "left_desk",
+      "shirtColor": "#94A3B8",
+      "pantsColor": "#334155",
+      "hairColor": "#1C1917",
+      "skinColor": "#C68A5C",
+      "hairStyle": "short",
+      "moodsByAct": ["worried", "neutral", "happy", "happy", "joy"]
+    },
+    {
+      "id": "engenheiro",
+      "role": "core_desk",
+      "shirtColor": "#2563EB",
+      "pantsColor": "#0F172A",
+      "hairColor": "#1E1B18",
+      "skinColor": "#E8B486",
+      "hairStyle": "quiff",
+      "moodsByAct": ["neutral", "joy", "happy", "happy", "joy"]
+    },
+    {
+      "id": "pagador",
+      "role": "walker",
+      "shirtColor": "#F97316",
+      "pantsColor": "#1E293B",
+      "hairColor": "#2A1B12",
+      "skinColor": "#E8B486",
+      "hairStyle": "quiff",
+      "walkActIndex": 2,
+      "moodsByAct": ["worried", "neutral", "happy", "happy", "joy"]
+    },
+    {
+      "id": "recebedor",
+      "role": "right_desk",
+      "shirtColor": "#0F766E",
+      "pantsColor": "#0F172A",
+      "hairColor": "#3B1F0E",
+      "skinColor": "#F1C9A5",
+      "hairStyle": "bob",
+      "moodsByAct": ["neutral", "neutral", "happy", "happy", "joy"]
+    }
+  ],
+  "acts": [
+    {
+      "id": "ato1",
+      "title": "A CURIOSIDADE",
+      "badge": "ANTES: TED E DOC SÓ EM DIAS ÚTEIS",
+      "badgeColor": "#DC2626",
+      "narration": "Você já parou para pensar como o PIX transfere dinheiro em menos de dois segundos, até de madrugada? Antes dele, um TED ou DOC podia levar horas e dependia do horário bancário.",
+      "pauseAfterSec": 1.2,
+      "sfx": "whoosh",
+      "cameraPreset": "drone_to_left",
+      "overlayCard": {
+        "side": "right",
+        "accentColor": "#DC2626",
+        "eyebrow": "TEMPO DE ESPERA ANTIGO",
+        "counter": { "prefix": "ATÉ ", "value": 24, "suffix": " HORAS", "decimals": 0 },
+        "subline": "Compensação em lotes • só em dias úteis"
+      }
+    },
+    {
+      "id": "ato2",
+      "title": "O SEGREDO NO MEIO",
+      "badge": "SPI + DICT • BANCO CENTRAL 24H",
+      "badgeColor": "#2563EB",
+      "narration": "O segredo está no motor central criado pelo Banco Central, que funciona vinte e quatro horas por dia. Ele conecta todos os bancos em uma mesma estrada digital, sem intermediários lentos.",
+      "pauseAfterSec": 1.2,
+      "sfx": "beep",
+      "cameraPreset": "focus_core",
+      "overlayCard": {
+        "side": "left",
+        "accentColor": "#2563EB",
+        "eyebrow": "ESTRADA DIGITAL DO BANCO CENTRAL",
+        "headline": "~2 SEGUNDOS",
+        "subline": "Conexão direta entre bancos",
+        "highlight": "Funciona 24h • 7 dias por semana"
+      }
+    },
+    {
+      "id": "ato3",
+      "title": "PASSO A PASSO",
+      "badge": "CHAVE TRADUZIDA EM MILISSEGUNDOS",
+      "badgeColor": "#F97316",
+      "narration": "Quando você digita uma chave e confirma, o sistema consulta o diretório DICT em milissegundos, descobre a conta de destino e dispara uma mensagem criptografada com o valor.",
+      "pauseAfterSec": 1.2,
+      "sfx": "whoosh",
+      "cameraPreset": "walker_to_step1"
+    },
+    {
+      "id": "ato4",
+      "title": "LIQUIDAÇÃO REAL",
+      "badge": "DEBITA EM UM • CREDITA NO OUTRO",
+      "badgeColor": "#0F766E",
+      "narration": "Na mesma fração de segundo, o sistema SPI debita a conta do banco pagador e credita a conta do banco recebedor. Por isso o dinheiro já cai disponível na hora, com comprovante imediato.",
+      "pauseAfterSec": 1.2,
+      "sfx": "beep",
+      "cameraPreset": "focus_right",
+      "overlayCard": {
+        "side": "left",
+        "accentColor": "#0F766E",
+        "eyebrow": "EM MENOS DE 2 SEGUNDOS",
+        "checklist": [
+          "Valida a chave no diretório DICT",
+          "Criptografa e reserva o saldo",
+          "Liquida direto no Banco Central",
+          "Credita e avisa os dois aplicativos"
+        ]
+      }
+    },
+    {
+      "id": "ato5",
+      "title": "CURIOSIDADE EXPLICADA",
+      "badge": "SIMPLES • RÁPIDO • 24 HORAS",
+      "badgeColor": "#0F766E",
+      "narration": "Pronto! Agora você sabe o que acontece por dentro toda vez que você faz um PIX.",
+      "pauseAfterSec": 0.0,
+      "sfx": "chime",
+      "cameraPreset": "wide_finale"
+    }
+  ]
+}

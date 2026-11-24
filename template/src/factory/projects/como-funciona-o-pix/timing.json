@@ -1,0 +1,712 @@
+{
+  "total_frames": 1668,
+  "act_starts": {
+    "ato1": 0,
+    "ato2": 370,
+    "ato3": 746,
+    "ato4": 1077,
+    "ato5": 1458
+  },
+  "words": [
+    {
+      "text": "Você",
+      "from": 8,
+      "to": 15
+    },
+    {
+      "text": "já",
+      "from": 16,
+      "to": 19
+    },
+    {
+      "text": "parou",
+      "from": 20,
+      "to": 29
+    },
+    {
+      "text": "para",
+      "from": 29,
+      "to": 35
+    },
+    {
+      "text": "pensar",
+      "from": 35,
+      "to": 47
+    },
+    {
+      "text": "como",
+      "from": 47,
+      "to": 55
+    },
+    {
+      "text": "o",
+      "from": 55,
+      "to": 58
+    },
+    {
+      "text": "PIX",
+      "from": 57,
+      "to": 65
+    },
+    {
+      "text": "transfere",
+      "from": 65,
+      "to": 79
+    },
+    {
+      "text": "dinheiro",
+      "from": 79,
+      "to": 91
+    },
+    {
+      "text": "em",
+      "from": 92,
+      "to": 94
+    },
+    {
+      "text": "menos",
+      "from": 95,
+      "to": 105
+    },
+    {
+      "text": "de",
+      "from": 105,
+      "to": 108
+    },
+    {
+      "text": "dois",
+      "from": 108,
+      "to": 117
+    },
+    {
+      "text": "segundos,",
+      "from": 117,
+      "to": 133
+    },
+    {
+      "text": "até",
+      "from": 144,
+      "to": 153
+    },
+    {
+      "text": "de",
+      "from": 153,
+      "to": 156
+    },
+    {
+      "text": "madrugada?",
+      "from": 156,
+      "to": 175
+    },
+    {
+      "text": "Antes",
+      "from": 195,
+      "to": 206
+    },
+    {
+      "text": "dele,",
+      "from": 206,
+      "to": 218
+    },
+    {
+      "text": "um",
+      "from": 229,
+      "to": 234
+    },
+    {
+      "text": "TED",
+      "from": 234,
+      "to": 244
+    },
+    {
+      "text": "ou",
+      "from": 245,
+      "to": 247
+    },
+    {
+      "text": "DOC",
+      "from": 248,
+      "to": 257
+    },
+    {
+      "text": "podia",
+      "from": 257,
+      "to": 265
+    },
+    {
+      "text": "levar",
+      "from": 265,
+      "to": 275
+    },
+    {
+      "text": "horas",
+      "from": 275,
+      "to": 283
+    },
+    {
+      "text": "e",
+      "from": 284,
+      "to": 287
+    },
+    {
+      "text": "dependia",
+      "from": 287,
+      "to": 302
+    },
+    {
+      "text": "do",
+      "from": 302,
+      "to": 305
+    },
+    {
+      "text": "horário",
+      "from": 306,
+      "to": 315
+    },
+    {
+      "text": "bancário.",
+      "from": 316,
+      "to": 331
+    },
+    {
+      "text": "O",
+      "from": 370,
+      "to": 372
+    },
+    {
+      "text": "segredo",
+      "from": 372,
+      "to": 386
+    },
+    {
+      "text": "está",
+      "from": 386,
+      "to": 392
+    },
+    {
+      "text": "no",
+      "from": 393,
+      "to": 395
+    },
+    {
+      "text": "motor",
+      "from": 395,
+      "to": 405
+    },
+    {
+      "text": "central",
+      "from": 405,
+      "to": 416
+    },
+    {
+      "text": "criado",
+      "from": 417,
+      "to": 430
+    },
+    {
+      "text": "pelo",
+      "from": 430,
+      "to": 436
+    },
+    {
+      "text": "Banco",
+      "from": 437,
+      "to": 447
+    },
+    {
+      "text": "Central,",
+      "from": 447,
+      "to": 462
+    },
+    {
+      "text": "que",
+      "from": 472,
+      "to": 476
+    },
+    {
+      "text": "funciona",
+      "from": 476,
+      "to": 492
+    },
+    {
+      "text": "vinte",
+      "from": 493,
+      "to": 500
+    },
+    {
+      "text": "e",
+      "from": 500,
+      "to": 502
+    },
+    {
+      "text": "quatro",
+      "from": 501,
+      "to": 510
+    },
+    {
+      "text": "horas",
+      "from": 510,
+      "to": 520
+    },
+    {
+      "text": "por",
+      "from": 520,
+      "to": 525
+    },
+    {
+      "text": "dia.",
+      "from": 526,
+      "to": 536
+    },
+    {
+      "text": "Ele",
+      "from": 556,
+      "to": 560
+    },
+    {
+      "text": "conecta",
+      "from": 560,
+      "to": 575
+    },
+    {
+      "text": "todos",
+      "from": 576,
+      "to": 584
+    },
+    {
+      "text": "os",
+      "from": 585,
+      "to": 590
+    },
+    {
+      "text": "bancos",
+      "from": 590,
+      "to": 601
+    },
+    {
+      "text": "em",
+      "from": 601,
+      "to": 606
+    },
+    {
+      "text": "uma",
+      "from": 606,
+      "to": 611
+    },
+    {
+      "text": "mesma",
+      "from": 611,
+      "to": 622
+    },
+    {
+      "text": "estrada",
+      "from": 622,
+      "to": 634
+    },
+    {
+      "text": "digital,",
+      "from": 634,
+      "to": 651
+    },
+    {
+      "text": "sem",
+      "from": 661,
+      "to": 669
+    },
+    {
+      "text": "intermediários",
+      "from": 669,
+      "to": 691
+    },
+    {
+      "text": "lentos.",
+      "from": 691,
+      "to": 708
+    },
+    {
+      "text": "Quando",
+      "from": 746,
+      "to": 753
+    },
+    {
+      "text": "você",
+      "from": 753,
+      "to": 761
+    },
+    {
+      "text": "digita",
+      "from": 761,
+      "to": 774
+    },
+    {
+      "text": "uma",
+      "from": 774,
+      "to": 778
+    },
+    {
+      "text": "chave",
+      "from": 778,
+      "to": 789
+    },
+    {
+      "text": "e",
+      "from": 789,
+      "to": 792
+    },
+    {
+      "text": "confirma,",
+      "from": 791,
+      "to": 809
+    },
+    {
+      "text": "o",
+      "from": 820,
+      "to": 822
+    },
+    {
+      "text": "sistema",
+      "from": 822,
+      "to": 835
+    },
+    {
+      "text": "consulta",
+      "from": 836,
+      "to": 851
+    },
+    {
+      "text": "o",
+      "from": 851,
+      "to": 853
+    },
+    {
+      "text": "diretório",
+      "from": 852,
+      "to": 867
+    },
+    {
+      "text": "DICT",
+      "from": 867,
+      "to": 877
+    },
+    {
+      "text": "em",
+      "from": 877,
+      "to": 880
+    },
+    {
+      "text": "milissegundos,",
+      "from": 880,
+      "to": 905
+    },
+    {
+      "text": "descobre",
+      "from": 915,
+      "to": 931
+    },
+    {
+      "text": "a",
+      "from": 931,
+      "to": 934
+    },
+    {
+      "text": "conta",
+      "from": 934,
+      "to": 943
+    },
+    {
+      "text": "de",
+      "from": 943,
+      "to": 946
+    },
+    {
+      "text": "destino",
+      "from": 947,
+      "to": 961
+    },
+    {
+      "text": "e",
+      "from": 962,
+      "to": 964
+    },
+    {
+      "text": "dispara",
+      "from": 964,
+      "to": 974
+    },
+    {
+      "text": "uma",
+      "from": 975,
+      "to": 978
+    },
+    {
+      "text": "mensagem",
+      "from": 978,
+      "to": 995
+    },
+    {
+      "text": "criptografada",
+      "from": 995,
+      "to": 1019
+    },
+    {
+      "text": "com",
+      "from": 1020,
+      "to": 1024
+    },
+    {
+      "text": "o",
+      "from": 1025,
+      "to": 1027
+    },
+    {
+      "text": "valor.",
+      "from": 1026,
+      "to": 1037
+    },
+    {
+      "text": "Na",
+      "from": 1077,
+      "to": 1082
+    },
+    {
+      "text": "mesma",
+      "from": 1082,
+      "to": 1093
+    },
+    {
+      "text": "fração",
+      "from": 1093,
+      "to": 1105
+    },
+    {
+      "text": "de",
+      "from": 1106,
+      "to": 1109
+    },
+    {
+      "text": "segundo,",
+      "from": 1109,
+      "to": 1124
+    },
+    {
+      "text": "o",
+      "from": 1134,
+      "to": 1137
+    },
+    {
+      "text": "sistema",
+      "from": 1137,
+      "to": 1151
+    },
+    {
+      "text": "SPI",
+      "from": 1152,
+      "to": 1168
+    },
+    {
+      "text": "debita",
+      "from": 1168,
+      "to": 1179
+    },
+    {
+      "text": "a",
+      "from": 1180,
+      "to": 1182
+    },
+    {
+      "text": "conta",
+      "from": 1181,
+      "to": 1190
+    },
+    {
+      "text": "do",
+      "from": 1190,
+      "to": 1194
+    },
+    {
+      "text": "banco",
+      "from": 1194,
+      "to": 1203
+    },
+    {
+      "text": "pagador",
+      "from": 1204,
+      "to": 1217
+    },
+    {
+      "text": "e",
+      "from": 1218,
+      "to": 1220
+    },
+    {
+      "text": "credita",
+      "from": 1220,
+      "to": 1232
+    },
+    {
+      "text": "a",
+      "from": 1232,
+      "to": 1235
+    },
+    {
+      "text": "conta",
+      "from": 1234,
+      "to": 1243
+    },
+    {
+      "text": "do",
+      "from": 1244,
+      "to": 1247
+    },
+    {
+      "text": "banco",
+      "from": 1247,
+      "to": 1257
+    },
+    {
+      "text": "recebedor.",
+      "from": 1257,
+      "to": 1275
+    },
+    {
+      "text": "Por",
+      "from": 1297,
+      "to": 1301
+    },
+    {
+      "text": "isso",
+      "from": 1301,
+      "to": 1309
+    },
+    {
+      "text": "o",
+      "from": 1310,
+      "to": 1312
+    },
+    {
+      "text": "dinheiro",
+      "from": 1311,
+      "to": 1323
+    },
+    {
+      "text": "já",
+      "from": 1323,
+      "to": 1328
+    },
+    {
+      "text": "cai",
+      "from": 1328,
+      "to": 1334
+    },
+    {
+      "text": "disponível",
+      "from": 1335,
+      "to": 1352
+    },
+    {
+      "text": "na",
+      "from": 1353,
+      "to": 1357
+    },
+    {
+      "text": "hora,",
+      "from": 1357,
+      "to": 1366
+    },
+    {
+      "text": "com",
+      "from": 1377,
+      "to": 1381
+    },
+    {
+      "text": "comprovante",
+      "from": 1382,
+      "to": 1401
+    },
+    {
+      "text": "imediato.",
+      "from": 1401,
+      "to": 1419
+    },
+    {
+      "text": "Pronto!",
+      "from": 1458,
+      "to": 1471
+    },
+    {
+      "text": "Agora",
+      "from": 1491,
+      "to": 1502
+    },
+    {
+      "text": "você",
+      "from": 1502,
+      "to": 1509
+    },
+    {
+      "text": "sabe",
+      "from": 1509,
+      "to": 1518
+    },
+    {
+      "text": "o",
+      "from": 1518,
+      "to": 1520
+    },
+    {
+      "text": "que",
+      "from": 1520,
+      "to": 1522
+    },
+    {
+      "text": "acontece",
+      "from": 1522,
+      "to": 1539
+    },
+    {
+      "text": "por",
+      "from": 1539,
+      "to": 1543
+    },
+    {
+      "text": "dentro",
+      "from": 1544,
+      "to": 1553
+    },
+    {
+      "text": "toda",
+      "from": 1553,
+      "to": 1562
+    },
+    {
+      "text": "vez",
+      "from": 1562,
+      "to": 1570
+    },
+    {
+      "text": "que",
+      "from": 1570,
+      "to": 1573
+    },
+    {
+      "text": "você",
+      "from": 1573,
+      "to": 1580
+    },
+    {
+      "text": "faz",
+      "from": 1580,
+      "to": 1586
+    },
+    {
+      "text": "um",
+      "from": 1586,
+      "to": 1592
+    },
+    {
+      "text": "PIX.",
+      "from": 1593,
+      "to": 1605
+    }
+  ]
+}

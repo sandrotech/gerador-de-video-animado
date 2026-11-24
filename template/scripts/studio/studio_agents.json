@@ -1,0 +1,29 @@
+{
+  "director": [
+    "auto/claude-opus",
+    "auto/claude-sonnet",
+    "antigravity/gemini-3.8-flash-medium"
+  ],
+  "audio_pronunciation": [
+    "antigravity/gemini-3-flash",
+    "antigravity/gemini-3.8-flash-medium",
+    "auto/claude-sonnet"
+  ],
+  "world_3d": [
+    "auto/claude-sonnet",
+    "auto/claude-opus"
+  ],
+  "copy_writer": [
+    "antigravity/gemini-3-flash",
+    "auto/claude-sonnet"
+  ],
+  "thumbnail_image": [
+    "antigravity/gemini-3.1-flash-image",
+    "codex/gpt-image-2"
+  ],
+  "qa_vision": [
+    "auto/best-vision",
+    "antigravity/gemini-3.8-flash-medium",
+    "auto/claude-sonnet"
+  ]
+}

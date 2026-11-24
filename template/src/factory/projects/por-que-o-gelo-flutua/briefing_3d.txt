@@ -1,0 +1,3 @@
+Modelo Diretor: auto/claude-opus
+
+Laboratório translúcido de física molecular em tons azuis e ciano profundo (#0B192C e #0E7490). Nos primeiros 3 segundos de gancho visual, uma grande pedra de gelo estilizada cai em super slow motion num aquário de vidro cilíndrico iluminado por LEDs laranjas; em vez de bater no fundo, ela atinge a metade do caminho com um splash cristalino e é ejetada com aceleração de volta à tona com bolhas fluorescentes. No centro do cenário, um holograma 3D gigante exibe moléculas de H2O se reorganizando em anéis hexagonais com pontos de luz indicando as pontes de hidrogênio e seus vazios internos.
